@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deungchonnight.xyz/sitemap.xml
+Sitemap: https://deungchonnight.xyz/sitemap-index.xml
